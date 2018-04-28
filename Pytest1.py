@@ -1,0 +1,10 @@
+#!/usr/bin/python
+#-*- conding:UTF-8 -*-
+
+#  Print ('Hello,Python')
+  
+  for i in range(1,5):
+       for j in range(1,5):
+	       for k in range(1,5):
+		     if (i != k ) and (i != j) and (j != k)
+                print ('Hello,Python',i,j,k)
